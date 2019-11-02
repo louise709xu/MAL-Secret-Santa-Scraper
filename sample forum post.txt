@@ -1,0 +1,112 @@
+<div class="forum_border_around " id="forumMsg56310378">
+	<div colspan="2" class="forum_category">
+		<a name="post2"></a>
+		<a name="msg56310378"></a>
+		<div style="margin: 5px 0px;">
+			<div style="float: right; padding-right: 3px; color: #ffffff;">
+				"#"
+				<a href="#msg56310378" class="postnum">2</a>
+			</div>
+			<div style="padding-left: 3px;" class="date">Nov 25, 12:26 PM</div>
+		</div>
+	</div>
+	<div class="forum-topic-message-wrapper">
+		<table class="forum_topic_message" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody>
+			<tr>
+				<td width="135" class="forum_boardrow2" style="border-width: 0px 0px 1px 1px;" valign="top">
+      		<div class="">
+      			<div id="messageuser56310378" style="padding-bottom: 2px;">
+							<a href="/profile/Dar9586">
+                <strong>Dar9586</strong>
+              </a>
+            </div>
+            <a href="/profile/Dar9586" class="forum-icon">
+              <img src="https://cdn.myanimelist.net/images/useravatars/4760595.png" vspace="2" border="0">
+            </a>
+            <br>
+            "Offline"
+            <br>
+            "Joined: Jul 2015"
+            <br>
+            "Posts: 7"
+          </div>
+        </td>
+        <td class="forum_boardrow1" style="border-width: 0px 1px 1px 1px;" valign="top">
+          <div class="clearfix word-break">
+          
+            <div id="message56310378" class="clearfix">
+              <span style="color: #3d6fb0">❅</span> 
+              <b>
+              "Type of image (profile pic, about me, forum avi, sig, profile set, forum set, or surprise me):"
+              </b> 
+              "Profile pic"
+              <br>
+              <span style="color: #4cb2dc">❅</span> 
+              <b>
+              "Likes (artists, characters, tags, etc.):"
+              </b> 
+              "Character:  Illyasviel Von Einzbern/Shitonai (Fate), Sagiri(Eromanga-Sensei), Yuki or Kurumi(Gakkougurashi) or Shio (Happy sugar life)"
+              <br>
+              <span style="color: #3d6fb0">❅</span> 
+              <b>
+              "Dislikes (artists, characters, tags, etc.):"
+              </b> 
+              "Historical,Sport"
+              <br>
+              <span style="color: #4cb2dc">❅</span> 
+              <b>
+              "Your image editing skill level (Beginner, Intermediate, or Advanced):" 
+              </b>
+              "Advanced"
+              <br>
+              <span style="color: #3d6fb0">❅</span> 
+              <b>
+              "Would you like to receive an image of the same level? (Yes or Surprise Me):"
+              </b> 
+              "Yes"
+              <br>
+              <span style="color: #4cb2dc">❅</span> 
+              <b>
+              Link(s) to some previous images you've used:
+              </b> 
+              <a href="https://imgur.com/gallery/gltq9" target="_blank" rel="nofollow noopener noreferrer">https://imgur.com/gallery/gltq9</a>
+              <br>
+              <span style="color: #3d6fb0">❅</span> 
+              <b>
+              "Link to your profile:"
+              </b> 
+              <a href="https://myanimelist.net/profile/Dar9586" rel="nofollow">https://myanimelist.net/profile/Dar9586</a>
+            </div>
+            
+            <div id="messageEditWaiting56310378" style="display: none;">
+              <img src="https://cdn.myanimelist.net/images/xmlhttp-loader.gif">
+            </div>
+            
+            <div id="messageEdit56310378" style="display: none;">
+              <textarea id="messageEditTextArea56310378" class="textarea" style="width: 874px; min-height: 200px">
+              </textarea>
+              <div style="margin: 2px 0px; text-align: left;">
+                <input type="button" value="Submit" data-id="56310378" class="inputButton postEditedMessage">
+                "&nbsp;"
+                <input type="button" name="cancel" value="Cancel" class="inputButton clearEditedMessage" data-id="56310378">
+                "&nbsp;"
+                <small>
+                  <a href="javascript:void(0);" onclick="window.open('/info.php?go=bbcode','bbcode','menubar=no,scrollbars=yes,status=no,width=600,height=700');">BBCode</a>
+                </small>
+              </div>
+            </div>
+            
+            <div style="margin-top: 8px;">
+              <em>Modified by Dar9586, Nov 26, 10:01 PM</em>
+            </div>
+            
+            <div class="postActions">
+              <div style="text-align: right;" id="postEditButtons56310378">
+                <a href="/modules.php?go=report&amp;type=forummessage&amp;id=2&amp;id2=1753247">Report</a> -
+                <a href="javascript:void(0);" class="js-forum-quote-button" data-id="56310378">Quote</a>
+              </div>
+            </div>
+            <div class="sig">
+              <img class="userimg" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwJwIfzbLq-A1NG7cayJEduazQm8dHPfb50xjMHKnPUDDK2zDYJqG7DEQP9udnLOpFQ"></div></div></td>
+		</tr></tbody></table></div></div>
